@@ -1,5 +1,58 @@
 ![image](https://user-images.githubusercontent.com/487999/79708354-29074a80-82fa-11ea-80df-0db3962fb453.png)
 
+
+
+
+1. EventStorming Model : Design Level
+![image](https://github.com/kjww0728/example-food-delivery/assets/44057292/bb9db642-5e84-4a92-9e51-209e79a15029)
+![image](https://github.com/kjww0728/example-food-delivery/assets/44057292/fd3d393e-892d-43b8-808d-6b84e7c6f414)
+
+
+
+
+
+
+2. Saga (Pub / Sub) .- front BC의 Statusupdate policy
+
+![image](https://github.com/kjww0728/example-food-delivery/assets/44057292/b22bef4a-7789-4fc1-995e-201394ba097e)
+![image](https://github.com/kjww0728/example-food-delivery/assets/44057292/9af0146a-fd8d-4602-a6b7-57849a1fabad)
+![image](https://github.com/kjww0728/example-food-delivery/assets/44057292/8290c0cc-48ea-4d73-8dd2-e9af4b4c4c3c)
+![image](https://github.com/kjww0728/example-food-delivery/assets/44057292/7435b076-3ab0-476a-af50-a7a998cf54ba)
+
+
+
+
+3. CQRS
+![image](https://github.com/kjww0728/example-food-delivery/assets/44057292/6e47bc83-c24d-4623-b337-3374515fab22)
+![image](https://github.com/kjww0728/example-food-delivery/assets/44057292/74bd301c-8cd8-4d75-b4d2-2f9745a4c55e)
+![image](https://github.com/kjww0728/example-food-delivery/assets/44057292/9e394ee1-1653-44b6-b41e-532e9f69d083)
+![image](https://github.com/kjww0728/example-food-delivery/assets/44057292/3ab98747-594f-4614-91b5-53127b0ae122)
+![image](https://github.com/kjww0728/example-food-delivery/assets/44057292/c408e433-16d7-4ca2-942e-d1c378a667fe)
+![image](https://github.com/kjww0728/example-food-delivery/assets/44057292/7deca90e-bd31-41b0-87a5-6445b3af7cf9)
+![image](https://github.com/kjww0728/example-food-delivery/assets/44057292/1874c252-ba7f-4350-ad2e-55349676b6b6)
+![image](https://github.com/kjww0728/example-food-delivery/assets/44057292/72f615b7-d228-4b77-ba25-dcf84d948383)
+
+
+
+
+
+4. Compensation / Correlation
+![image](https://github.com/kjww0728/example-food-delivery/assets/44057292/1db2398e-d324-4416-af19-496955fdc013)
+![image](https://github.com/kjww0728/example-food-delivery/assets/44057292/f515da7b-0e90-49e8-a2c2-a8d78dcbdf20)
+![image](https://github.com/kjww0728/example-food-delivery/assets/44057292/7dcddc1f-ea35-453b-a463-b1c0c0546f7c)
+![image](https://github.com/kjww0728/example-food-delivery/assets/44057292/07e197c4-74e3-4e88-9521-e3e80b65213a)
+
+
+
+
+
+
+
+
+
+
+
+
 # 예제 - 음식배달
 
 본 예제는 MSA/DDD/Event Storming/EDA 를 포괄하는 분석/설계/구현/운영 전단계를 커버하도록 구성한 예제입니다.
