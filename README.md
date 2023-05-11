@@ -12,7 +12,7 @@
 
 
 
-2. Saga (Pub / Sub) .- front BC의 Statusupdate policy
+2. Saga (Pub / Sub) .- Store의 ReceiveOrder Policy, UpdateOrderStatus Policy
 
 ![image](https://github.com/kjww0728/example-food-delivery/assets/44057292/b22bef4a-7789-4fc1-995e-201394ba097e)
 
